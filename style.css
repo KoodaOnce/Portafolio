@@ -5,6 +5,10 @@
     --page-color: #222831
 }
 
+.blackbox-overlay{
+    display: none;
+}
+
 * {
     margin: 0;
     padding: 0;
